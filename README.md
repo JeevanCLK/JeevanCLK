@@ -56,17 +56,12 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 <div
   <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Git: Git is a distributed version control system that allows multiple developers to collaboratively manage and track changes to source code, ensuring efficient code integration and history management across projects.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Git: It's a distributed version control system that allows multiple developers to collaboratively manage and track changes to source code, ensuring efficient code integration and history management across projects.</span>
 </p>
 </div>
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08133-ezgif.com-video-to-gif-converter.gif" width="500" style="margin-right: 20px;" />
-  </div>
-</div>
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Professional%20male%20DevOps.gif" width="500" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/git%20workflow.png" height="300" width="1000" style="margin-right: 20px;" />
   </div>
 </div>
 <div
@@ -119,24 +114,16 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   </p>
 </div>
 
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08134-ezgif.com-video-to-gif-converter.gif" height="500" width="1000" style="margin-right: 20px;" />
-  </div>
-</div>
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kubectl.png" height="300" width="1000" style="margin-right: 20px;" />
-  </div>
+<div align="left" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kub.gif" height="300" width="500" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kubernetes.png" height="300" width="500" style="margin-right: 20px;" />
 </div>
 
 
-<div
-  <p>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Ngnix: High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span>
-  </p>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/snapedit_1723578031426.jpeg" height="300" width="1000" style="margin-right: 20px;" />
+  </div>
 </div>
 
 <div
@@ -166,6 +153,19 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 
 <div
   <p>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Ngnix: High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span>
+  </p>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Networking-ezgif.com-crop.gif" height="300" width="1000" style="margin-right: 20px;" />
+  </div>
+</div>
+
+<div
+  <p>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">PostMan: It's a popular API development and testing tool that simplifies the process of designing, testing, and documenting APIs, offering features like request building, automated testing, and collaboration for developers working with RESTful and GraphQL APIs.</span>
 </p>
 </div>
@@ -179,12 +179,14 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Zapier: It's a web-based automation tool that connects various apps and services to automate repetitive tasks and workflows, enabling users to create custom integrations and automate processes without needing to write code.</span>
   </p>
   </div>
-  
+
   <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Networking-ezgif.com-crop.gif" height="300" width="1000" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Professional%20male%20DevOps.gif" width="500" style="margin-right: 20px;" />
   </div>
 </div>
+
+  
 
 - 🔭 I’m currently working on AWS Devops projects to get indepth knowledge about AWS and Dev tools
 - 🌱 I’m currently learning core AWS cocepts 
@@ -207,7 +209,13 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
     </a>
 </p>
 
+
 ## Please find my Resume below for more details about myself and my background  :
+
+<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/infinity-symbol-software-development-operations-system-life-cycle-quality-administration-by-programmers-building-testing-release-monitoring-by-freelance-modern-artists-online-freelance-modern_854723-14324-Photoroom.png" height="400" width="1000" style="margin-right: 20px;" />
+</div>
+
 # Jeevan H P
 
 **Senior Systems Engineer – DevOps**
