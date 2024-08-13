@@ -61,7 +61,7 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 </div>
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08133-ezgif.com-video-to-gif-converter.gif" height="450" width="750" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08133-ezgif.com-video-to-gif-converter.gif" width="500" style="margin-right: 20px;" />
   </div>
 </div>
 <div align="center">
@@ -117,6 +117,12 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Kuberenetes: Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span>
   </p>
+</div>
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08134-ezgif.com-video-to-gif-converter.gif" height="500" width="1000" style="margin-right: 20px;" />
+  </div>
 </div>
 
 <div align="center">
