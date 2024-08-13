@@ -61,6 +61,11 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 </div>
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08133-ezgif.com-video-to-gif-converter.gif" height="450" width="750" style="margin-right: 20px;" />
+  </div>
+</div>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
     <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Professional%20male%20DevOps.gif" width="500" style="margin-right: 20px;" />
   </div>
 </div>
@@ -113,6 +118,13 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Kuberenetes: Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span>
   </p>
 </div>
+
+<div align="center">
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kubectl.png" height="300" width="1000" style="margin-right: 20px;" />
+  </div>
+</div>
+
 
 <div
   <p>
