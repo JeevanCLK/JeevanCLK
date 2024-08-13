@@ -115,7 +115,7 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment and synchronization of applications, allowing for version-controlled, auditable, and repeatable deployments directly from Git repositories.</span></p>
 </div>
 
-## ***Kuberenetes***
+## ***Kubernetes***
 <div
   <p>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
