@@ -164,7 +164,7 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   
   <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Devops%20QA.gif" width="500" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/loadblc-ezgif.com-crop.gif" width="500" style="margin-right: 20px;" />
   </div>
 </div>
 
