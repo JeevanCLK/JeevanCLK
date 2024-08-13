@@ -1,5 +1,5 @@
-<h1 align="center">Hey Hello . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P</h1>
-<h3 align="center">A passionate DevOps Engineer From Bangalore.</h3>
+# ***Hey Hello . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P***
+
 <div align="left">
   <div
 </div>
@@ -7,8 +7,9 @@
     <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/pngwing.com%20(6).png" width="230" style="margin-right: 20px;" />
     <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/systemwork-ezgif.com-gif-maker.gif" width="230" />
 </div>
+<h3 align="center">A passionate DevOps Engineer From Bangalore.</h3>
   
-## Devops Spare Parts : 
+# ***Devops Spare Parts*** 
 AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Docker,ArgoCD,Kubernetes,Prometheus,Grafana
 <div
   <div align="center"
@@ -33,128 +34,135 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 </div>
-  <p>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Amazon Web Services: Provides a comprehensive suite of cloud computing services, including storage, computing power, and database solutions, designed to scale and innovate for businesses of all sizes." </span>
-</p>
-</div>
 
+## ***Amazon Web Services***
 <div
   <p>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Bash: Bourne Again Shell is a powerful command-line interpreter and scripting language used in Unix-based systems for automating tasks, managing system operations, and executing complex command sequences efficiently.</span>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Provides a comprehensive suite of cloud computing services, including storage, computing power, and database solutions, designed to scale and innovate for businesses of all sizes." </span>
 </p>
 </div>
 
+## ***Bash: Bourne Again Shell***
+<div 
+  <p>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a powerful command-line interpreter and scripting language used in Unix-based systems for automating tasks, managing system operations, and executing complex command sequences efficiently.</span>
+</p>
+</div>
+
+## ***Linux OS***
 <div
   <p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Linux OS: An open-source operating system kernel known for its stability, security, and flexibility, widely used in servers, desktops, and embedded systems, and supported by a large community of developers and contributors.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">An open-source operating system kernel known for its stability, security, and flexibility, widely used in servers, desktops, and embedded systems, and supported by a large community of developers and contributors.</span>
 </p>
 </div>
 
+## ***Git***
 <div
   <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Git: It's a distributed version control system that allows multiple developers to collaboratively manage and track changes to source code, ensuring efficient code integration and history management across projects.</span>
-</p>
-</div>
-<div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/git%20workflow.png" height="300" width="1000" style="margin-right: 20px;" />
-  </div>
-</div>
-<div
-  <p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">GitHub: It is a web-based platform that provides hosting for version control using Git, along with collaborative features like pull requests, issues, and project management tools, enabling developers to collaborate on code and manage repositories efficiently.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a distributed version control system that allows multiple developers to collaboratively manage and track changes to source code, ensuring efficient code integration and history management across projects.</span>
 </p>
 </div>
 
+## ***GitHub***
+<div
+  <p>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It is a web-based platform that provides hosting for version control using Git, along with collaborative features like pull requests, issues, and project management tools, enabling developers to collaborate on code and manage repositories efficiently.</span>
+</p>
+</div>
+
+## ***Java***
 <div
   <p>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">
-    <strong><em style="font-size: 48px;">Java</em></strong>: A versatile, object-oriented programming language designed for portability across platforms, enabling developers to build robust, high-performance applications for web, mobile, and enterprise environments.
+ <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Java: A versatile, object-oriented programming language designed for portability across platforms, enabling developers to build robust, high-performance applications for web, mobile, and enterprise environments.
 </span>
 </p>
 </div>
 
+## ***Apache Maven***
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">:Apache Maven: Is a build automation and project management tool for Java projects that simplifies the process of building, testing, and managing project dependencies through a standardized and declarative XML configuration.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is a build automation and project management tool for Java projects that simplifies the process of building, testing, and managing project dependencies through a standardized and declarative XML configuration.</span>
 </p>
 </div>
 
+## ***Jenkins***
 <div
   <p>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Jenkins: Is a build automation and project management tool for Java projects that simplifies the process of building, testing, and managing project dependencies through a standardized and declarative XML configuration.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is a build automation and project management tool for Java projects that simplifies the process of building, testing, and managing project dependencies through a standardized and declarative XML configuration.</span>
 </p>
 </div>
 
+## ***Docker***
 <div
   <p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Docker: Is s a platform that enables developers to package, distribute, and run applications in lightweight, portable containers, ensuring consistency across different environments and simplifying deployment and scaling.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is s a platform that enables developers to package, distribute, and run applications in lightweight, portable containers, ensuring consistency across different environments and simplifying deployment and scaling.</span>
 </p>
 </div>
 
+## ***Argo CD***
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="argo" width="90" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">ArgoCD: It's a declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment and synchronization of applications, allowing for version-controlled, auditable, and repeatable deployments directly from Git repositories.</span></p>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment and synchronization of applications, allowing for version-controlled, auditable, and repeatable deployments directly from Git repositories.</span></p>
 </div>
 
+## ***Kuberenetes***
 <div
   <p>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Kuberenetes: Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span>
   </p>
 </div>
 
-<div align="left" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kub.gif" height="300" width="500" style="margin-right: 20px;" />
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kubernetes.png" height="300" width="500" style="margin-right: 20px;" />
-</div>
-
-
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/snapedit_1723578031426.jpeg" height="300" width="1000" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/kubectl.png" height="300" width="1000" style="margin-right: 20px;" />
   </div>
 </div>
 
+## ***MySQL***
 <div
   <p>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">MySQL: It's an open-source relational database management system (RDBMS) that uses SQL (Structured Query Language) for managing and querying data, known for its reliability, ease of use, and strong support for various applications and platforms.</span>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source relational database management system (RDBMS) that uses SQL (Structured Query Language) for managing and querying data, known for its reliability, ease of use, and strong support for various applications and platforms.</span>
 </p>
 </div>
 
+## ***Prometheus***
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="90" height="40"/> </a>
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Prometheus: It's an open-source monitoring and alerting toolkit designed for reliability and scalability, specializing in time-series data collection and querying, often used to monitor and analyze metrics from containerized and distributed systems.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source monitoring and alerting toolkit designed for reliability and scalability, specializing in time-series data collection and querying, often used to monitor and analyze metrics from containerized and distributed systems.</span>
 </p>
 </div>
 
+## ***Grafana***
 <div
   <p>
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Grafana: It's an open-source analytics and monitoring platform that integrates with various data sources to visualize and analyze time-series data, providing interactive and customizable dashboards for tracking system performance and metrics.</span>
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source analytics and monitoring platform that integrates with various data sources to visualize and analyze time-series data, providing interactive and customizable dashboards for tracking system performance and metrics.</span>
 </p>
 </div>
 
+## ***Adobe PhotoShop***
 <div
   <p>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">PhotoShop: Adobe Photoshop is a powerful image editing and graphic design software that provides extensive tools and features for manipulating and enhancing digital images, creating graphics, and performing advanced photo retouching and compositing.</span>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Adobe Photoshop is a powerful image editing and graphic design software that provides extensive tools and features for manipulating and enhancing digital images, creating graphics, and performing advanced photo retouching and compositing.</span>
 </p>
 </div>
 
+## ***Nginx***
 <div
   <p>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Ngnix: High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span>
   </p>
 </div>
 
@@ -164,19 +172,22 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   </div>
 </div>
 
+## ***PostMan***
 <div
   <p>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">PostMan: It's a popular API development and testing tool that simplifies the process of designing, testing, and documenting APIs, offering features like request building, automated testing, and collaboration for developers working with RESTful and GraphQL APIs.</span>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a popular API development and testing tool that simplifies the process of designing, testing, and documenting APIs, offering features like request building, automated testing, and collaboration for developers working with RESTful and GraphQL APIs.</span>
 </p>
 </div>
 
+## ***Spring***
 <div
   <p>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Spring: It's a comprehensive framework for Java development, offering a wide range of features including dependency injection, aspect-oriented programming, and support for web, data, and enterprise applications, aimed at simplifying the development of robust, scalable software.</span>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a comprehensive framework for Java development, offering a wide range of features including dependency injection, aspect-oriented programming, and support for web, data, and enterprise applications, aimed at simplifying the development of robust, scalable software.</span>
 
+## ***Zapier***
   <div
     <p>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Zapier: It's a web-based automation tool that connects various apps and services to automate repetitive tasks and workflows, enabling users to create custom integrations and automate processes without needing to write code.</span>
+<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a web-based automation tool that connects various apps and services to automate repetitive tasks and workflows, enabling users to create custom integrations and automate processes without needing to write code.</span>
   </p>
   </div>
 
@@ -186,7 +197,6 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
   </div>
 </div>
 
-  
 
 - 🔭 I’m currently working on AWS Devops projects to get indepth knowledge about AWS and Dev tools
 - 🌱 I’m currently learning core AWS cocepts 
@@ -211,10 +221,6 @@ AWS,Linux, Git and GitHub,CSS,Jenkins,Java,Maven,Bash,Ansible,SonarQube,Nexus,Do
 
 
 ## Please find my Resume below for more details about myself and my background  :
-
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/infinity-symbol-software-development-operations-system-life-cycle-quality-administration-by-programmers-building-testing-release-monitoring-by-freelance-modern-artists-online-freelance-modern_854723-14324-Photoroom.png" height="400" width="1000" style="margin-right: 20px;" />
-</div>
 
 # Jeevan H P
 
