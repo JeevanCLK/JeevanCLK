@@ -3,9 +3,9 @@
 <div align="left">
   <div
 </div>
-    <img src="https://github.com/JeevanCLK/10-microservices/blob/master/devops.png" width="350" style="margin-right: 20px;" />
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/pngwing.com%20(6).png" width="250" style="margin-right: 20px;" />
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250" />
+    <img src="https://github.com/JeevanCLK/10-microservices/blob/master/devops.png" width="330" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/pngwing.com%20(6).png" width="230" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="230" />
 </div>
   
 ## Devops Spare Parts : 
