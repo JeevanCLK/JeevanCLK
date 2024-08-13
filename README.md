@@ -235,7 +235,9 @@ An Engineer with 2.7 years of working experience in the information technology i
 - Standardized configuration management practices using Ansible for better visibility into infrastructure changes.
 - Well-versed with Software Development Life Cycle (SDLC), Agile, and DevOps methodologies.
 
-**Personal Project**: 10 Microservices Based E-commerce Application Deployed on AWS EKS
+## Personal Project 
+
+### 10 Microservices Based E-commerce Application Deployed on AWS EKS
 
 **GitHub Project** link: https://github.com/JeevanCLK/10-microservices/blob/master/README.md
 
