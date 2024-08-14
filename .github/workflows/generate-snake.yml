@@ -27,4 +27,4 @@ jobs:
           git config --local user.email "actions@github.com"
           git add dist
           git commit -m "Generate Snake Game"
-          git push origin master
+          git push origin main
