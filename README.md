@@ -379,3 +379,4 @@ An Engineer with 2.7 years of working experience in the information technology i
   - Application Lifecycle Management using JIRA
   - Infosys Global Agile Certification
 
+![Snake animation](https://github.com/JeevanCLK/JeevanCLK/blob/output/github-contribution-grid-snake.svg)
