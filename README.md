@@ -11,7 +11,7 @@
   
 #
 
-# ***DevOps Spare Parts: An Ultimate End to End Corporate Pipeline.*** 
+# ***DevOps Spares : An Ultimate End to End Corporate Pipeline Tools*** 
 | ****JIRA**** | ****AWS**** | ****Linux**** | ****Bash**** | ****Git**** | ****GitHub**** | ****Jenkins**** | ****Java**** | ****Spring**** | ****Maven**** | ****SonarQube**** | ****Aqua Trivy**** | ****Nexus Repo**** | ****Docker**** | ****Ansible**** | ****ArgoCD**** | ****Kubernetes**** | ****Prometheus**** | ****Grafana**** | ****Nginx**** | ****Postman**** | ****Terraform**** | ****PhotoShop**** | ****Zapier**** | ****HTML**** | ****CSS**** 
 <div
   <div align="center"
@@ -45,6 +45,30 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/</a> 
 </p>
 </div>
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeevanCLK&label=Profile%20views&color=0e75b6&style=flat" alt="JeevanCLK" /> </p>
+
+- 🔭 I’m currently working on AWS Devops projects to get indepth knowledge about AWS and Dev tools
+- 🌱 I’m currently learning core AWS cocepts 
+- 💬 Ask me anything about AWS DEVOPS
+- 📫 How to reach me:
+
+***Connect with me***
+  
+<p align="left">
+ <a href="tel:+919108963695" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" height="35" width="30" />
+    </a>
+    <a href="mailto:jeevanclk712000@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="35" width="30" />
+    </a>
+    <a href="https://linkedin.com/in/jeevanhp" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://github.com/JeevanCLK/JeevanCLK" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeevanCLK&show_icons=true&locale=en&layout=compact" alt="JeevanCLK" /></p>
 
@@ -219,9 +243,10 @@
   </p>
 </div>
 
-<div align="center">
+<div 
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08162-ezgif.com-crop.gif" height="300" width="680" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08162-ezgif.com-crop.gif" height="250" width="500" style="margin-right: 20px;" />
+      <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/loadbalancer%20(1)-Photoroom.png" height="250" width="500" style="margin-right: 20px;" />
   </div>
 </div>
 
@@ -258,32 +283,6 @@
     <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Professional%20male%20DevOps.gif" width="500" style="margin-right: 20px;" />
   </div>
 </div>
-
-
-- 🔭 I’m currently working on AWS Devops projects to get indepth knowledge about AWS and Dev tools
-- 🌱 I’m currently learning core AWS cocepts 
-- 💬 Ask me anything about AWS DEVOPS
-- 📫 How to reach me:
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=JeevanCLK&label=Profile%20views&color=0e75b6&style=flat" alt="JeevanCLK" /> </p>
-
-  
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="tel:+919108963695" target="blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" height="35" width="30" />
-    </a>
-    <a href="mailto:jeevanclk712000@gmail.com" target="blank">
-        <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="35" width="30" />
-    </a>
-    <a href="https://linkedin.com/in/jeevanhp" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://github.com/JeevanCLK/JeevanCLK" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-    </a>
-</p>
-
 
 ## Please find my Resume below for more details about myself and my background  :
 
