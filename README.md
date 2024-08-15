@@ -245,8 +245,8 @@
 
 <div 
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08162-ezgif.com-crop.gif" height="250" width="500" style="margin-right: 20px;" />
-      <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/loadbalancer%20(1)-Photoroom.png" height="250" width="500" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08162-ezgif.com-crop.gif" height="200" width="400" style="margin-right: 20px;" />
+      <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/loadbalancer%20(1)-Photoroom.png" height="200" width="400" style="margin-right: 20px;" />
   </div>
 </div>
 
