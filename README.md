@@ -221,7 +221,7 @@
 
 <div align="center">
   <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/com-crop-unscreen.gif" height="300" width="680" style="margin-right: 20px;" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08161-ezgif.com-crop.gif" height="300" width="680" style="margin-right: 20px;" />
   </div>
 </div>
 
