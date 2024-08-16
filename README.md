@@ -284,7 +284,7 @@ The images are clearly indicating the hight application traffic has been distrib
   </div>
   
 <div align="center">
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Dev.png" height="350" width="1000"> 
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Dev.png" height="200" width="1000"> 
 </div>
 
 ## Please find my Resume below for more details about myself and my background  :
