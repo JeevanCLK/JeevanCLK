@@ -1,11 +1,11 @@
 # ***Hello . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P***
 
-<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Banner.jpg"> </div>
+<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Banner.jpg"> </div>
 
 <div align="left">
   <div align="center"
 </div>
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/systemwork-ezgif.com-gif-maker.gif" width="230" />
+    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/systemwork.gif" width="230" />
 </div>
 <h3 align="center">A passionate DevOps Engineer From Bangalore</h3>
   
@@ -167,7 +167,7 @@
 ## ***Aqua Trivy : A powerfull Vulnerability Scanner***
 <div
   <p>
-   <a href="https://trivy.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/trivy.svg" alt="aquatrivy" width="50" height="50"/> </a>
+   <a href="https://trivy.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/trivy.svg" alt="aquatrivy" width="50" height="50"/> </a>
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source vulnerability scanner designed for container images, file systems, and Git repositories. It scans for vulnerabilities in Docker and other container images, as well as in the code stored in repositories, helping you identify and address security issues before they become a problem in production.</span>
 </p>
 </div>
@@ -175,7 +175,7 @@
 ## ***Nexus Repo : For Storing the build Artifacts***
 <div
   <p>
-  <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44938?s=200&v=4" alt="sonatype" width="50" height="50"/> </a>
+  <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank" rel="noreferrer"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/sonatype.svg" alt="sonatype" width="50" height="50"/> </a>
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Nexus Repository (often abbreviated as Nexus Repo) is a repository manager developed by Sonatype. It allows developers to manage and store software artifacts, such as libraries, frameworks, and other dependencies, in a centralized location.</span>
 </p>
 </div>
@@ -243,11 +243,9 @@
   </p>
 </div>
 
-<div 
-  <div align="left" style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/08162-ezgif.com-crop.gif" height="200" width="400" style="margin-right: 20px;" />
-      <img align="right" src="https://github.com/JeevanCLK/JeevanCLK/blob/main/loadbalancer%20(1)-Photoroom.png" height="200" width="400" style="margin-right: 20px;" />
-  </div>
+<div align="center">
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/NLB-ALB.gif" height="200" width="500"> 
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/ALB-NLB.png" height="200" width="500"> 
 </div>
 
 ## ***PostMan***
@@ -277,11 +275,9 @@
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a web-based automation tool that connects various apps and services to automate repetitive tasks and workflows, enabling users to create custom integrations and automate processes without needing to write code.</span>
   </p>
   </div>
-
-  <div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 960px;">
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Professional%20male%20DevOps.gif" width="500" style="margin-right: 20px;" />
-  </div>
+  
+<div align="center">
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Dev.png" height="350" width="1000"> 
 </div>
 
 ## Please find my Resume below for more details about myself and my background  :
@@ -292,7 +288,8 @@
 
 - **Mob**: (+91) 9108963695  
 - **E-mail**: [jeevanclk712000@gmail.com](mailto:jeevanclk712000@gmail.com)  
-- **LinkedIn**: [https://www.linkedin.com/in/jeevanhp](https://www.linkedin.com/in/jeevanhp)  
+- **LinkedIn**: https://www.linkedin.com/in/jeevanhp
+- **GitHub**: https://github.com/JeevanCLK
 - **DOB**: 07-01-2000  
 - **Address**: Heggere, Sanikere, Chitradurga -577522  
 - **Languages**: English, Kannada, Telugu, Hindi
@@ -345,17 +342,9 @@ An Engineer with 2.7 years of working experience in the information technology i
 - Made changes to the application using Git and committed the changes to the GitHub repository. Configured the repo with a webhook against Jenkins URL to trigger a Jenkins job. Whenever changes were detected in the source code, Jenkins started pulling the code from the GitHub repo to start the pipeline as part of continuous integration and continuous deployment. The Jenkins declarative pipeline was integrated with a series of steps using the respective plugins for the steps to achieve CI/CD.
 
 **Series of Steps Involved**:
-- Git Checkout
-- Maven Compile
-- Maven Test
-- Vulnerability Scanning by Aqua Trivia
-- SonarQube Code Quality Check
-- Maven Build
-- Nexus Repo (Store the Artifacts)
-- Docker Build and Tag the Image
-- Docker Push the Images to Docker Hub
-- Git Checkout of Deployment and Service.yml Files
-- Argo CD
+
+JIRA(Gather Requirements) ➜➜ Code Development & test it in local ➜➜ Push to Github ➜➜ Jenkins Pipeline pull SC ➜➜ Git Checkout ➜➜ Maven Compile ➜➜ Mvn test ➜➜ Sonarqube Code Quality checks ➜➜ Vulnerability Scan by Aqua Trivy ➜➜ Mvn build ➜➜ Push the artifacts to Nexus repo ➜➜ Docker build and tag ➜➜ Docker push images to registry ➜➜ Update yaml files(Yaml files (deployment & service) in Repo2 ➜➜
+Image pull by ArgoCD ➜➜ Deployment of Microservices to AWS EKS cluster ➜➜ Access application with Loadbalancer server or Custom DNS
 
 ## Core Competencies
 
@@ -377,5 +366,5 @@ An Engineer with 2.7 years of working experience in the information technology i
   - Complete Overview of Agile & DevOps
   - Application Lifecycle Management using JIRA
   - Infosys Global Agile Certification
-
+  
 ![Snake animation](https://github.com/JeevanCLK/JeevanCLK/blob/output/github-contribution-grid-snake.svg)
