@@ -212,6 +212,10 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/kubectl.png" height="200" width="1000"> 
+</div>
+
 
 ## ***MySQL : For managing relation Databases***
 <div
@@ -244,8 +248,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/NLB-ALB.gif" height="200" width="500"> 
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/ALB-NLB.png" height="200" width="500"> 
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/NLB-ALB.gif" height="250" width="500"> 
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/ALB-NLB.png" height="250" width="500"> 
 </div>
 
 ## ***PostMan***
