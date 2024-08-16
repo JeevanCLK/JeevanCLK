@@ -74,7 +74,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeevanCLK&show_icons=true&locale=en" alt="JeevanCLK" /></p>
 
-#
+## ***------------Let's have a quick look at the description about each tools------------***
 
 ## ***JIRA Software : Manage and keep track of projects(Sprint Planning)***
 <div
@@ -204,11 +204,12 @@
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment and synchronization of applications, allowing for version-controlled, auditable, and repeatable deployments directly from Git repositories.</span></p>
 </div>
 
-## ***Kubernetes : Powerfull Container Orchestration***
+## ***Kubernetes : K8's Powerfull Container Orchestration tool***
 <div
   <p>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications, providing a robust framework for managing complex, distributed systems.</span><br>
+Have a look at the below image deeply indicating how the groups of containers handled in kubernetes , it's like a big ship carrying large amount of containers having applications components in each container consisting of neccessary application requirements to run a application which are required by an application to run inside an isolated environment(conatiners) ,conatiners are lightweight and ephemerol in nature meaning that they can be created,deleted ,stopped. Aplication inside a conatiner will be packed and bundled with all the necessary depenencies,library files,packages which are required by application to run  seamlessly inside an isolated container.
   </p>
 </div>
 
@@ -243,7 +244,9 @@
 <div
   <p>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span>
+  <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">High-performance web server and reverse proxy server known for its efficiency, scalability, and low resource usage, often used for serving static content, load balancing, and acting as a gateway for applications.</span><br>
+Below two images are representing how the traffic distribution happens from internet when an users try to acccess somethig from the web applicagtion , the powerfull web servers out there in the market are responsible for managing traffic/load requests and responses between web browser and web server.<br>
+The images are clearly indicating the hight application traffic has been distributed across the multiple machines to manage the traffic for the high availability ,low lotency, high throughput of the application, this ensures that the application is always ruuning even if the one machine goes down by distributing that traffic to other machines.
   </p>
 </div>
 
