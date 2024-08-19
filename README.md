@@ -218,7 +218,7 @@ Have a look at the below image deeply indicating how the groups of containers ha
 </div>
 
 
-## ***MySQL : For managing relation Databases***
+## ***MySQL : For managing relational Databases***
 <div
   <p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source relational database management system (RDBMS) that uses SQL (Structured Query Language) for managing and querying data, known for its reliability, ease of use, and strong support for various applications and platforms.</span>
