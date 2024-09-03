@@ -1,12 +1,8 @@
-# ***Hello . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P***
+#   ----Hey . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P----
 
-<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Banner.jpg"> </div>
+<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Devops%20Banner.svg"> </div>
 
 <div align="left">
-  <div align="center"
-</div>
-    <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/systemwork.gif" width="230" />
-</div>
 <h3 align="center">A passionate DevOps Engineer From Bangalore</h3>
   
 #
@@ -251,8 +247,7 @@ The images are clearly indicating the hight application traffic has been distrib
 </div>
 
 <div align="center">
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/NLB-ALB.gif" height="250" width="500"> 
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/ALB-NLB.png" height="250" width="500"> 
+  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/LoadBalancer.svg"> 
 </div>
 
 ## ***PostMan***
