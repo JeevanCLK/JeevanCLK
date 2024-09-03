@@ -1,4 +1,6 @@
-#   ----Hey . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P----
+<div align="center">
+  <h1>----Hey . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P----</h1>
+</div>
 
 <div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Devops%20Banner.svg"> </div>
 
@@ -7,7 +9,10 @@
   
 #
 
-# ***DevOps Spares : An Ultimate End to End Corporate Pipeline Tools*** 
+<div align="left">
+  <h3>DevOps Spares : An Ultimate End to End Corporate Pipeline Tools</h3>
+</div>
+
 | ****JIRA**** | ****AWS**** | ****Linux**** | ****Bash**** | ****Git**** | ****GitHub**** | ****Jenkins**** | ****Java**** | ****Spring**** | ****Maven**** | ****SonarQube**** | ****Aqua Trivy**** | ****Nexus Repo**** | ****Docker**** | ****Ansible**** | ****ArgoCD**** | ****Kubernetes**** | ****Prometheus**** | ****Grafana**** | ****Nginx**** | ****Postman**** | ****Terraform**** | ****PhotoShop**** | ****Zapier**** | ****HTML**** | ****CSS**** 
 <div
   <div align="center"
@@ -70,9 +75,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeevanCLK&show_icons=true&locale=en" alt="JeevanCLK" /></p>
 
-## ***------------Let's have a quick look at the description about each tools------------***
+<div align="center">
+  <h2>----Let's have a quick look at the description about each tools----</h2>
+</div>
 
-## ***JIRA Software : Manage and keep track of projects(Sprint Planning)***
+<div align="left">
+  <h3>JIRA Software : Manage and keep track of projects(Sprint Planning)</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.atlassian.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a> 
@@ -80,7 +90,12 @@
 </p>
 </div>
 
-## ***Amazon Web Services : Scalable cloud computing services provider***
+#
+
+<div align="left">
+  <h3>Amazon Web Services : Scalable cloud computing services provide</h3>
+</div>
+
 <div
   <p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -89,7 +104,12 @@
 </div>
 
 
-## ***Linux OS : An open-source operating system known for its stability and security***
+#
+
+<div align="left">
+  <h3>Linux OS : An open-source operating system known for its stability and security</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -97,7 +117,12 @@
 </p>
 </div>
 
-## ***Bash: Scripting and Automation of repeated tasks***
+#
+
+<div align="left">
+  <h3>Bash: Scripting and Automation of repeated tasks</h3>
+</div>
+
 <div 
   <p>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -105,7 +130,12 @@
 </p>
 </div>
 
-## ***Git : Distributed version control system for tracking changes in source code during software development.***
+#
+
+<div align="left">
+  <h3>Git : Distributed version control system for tracking changes in source code during software development.</h3>
+</div>
+
 <div
   <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -113,7 +143,12 @@
 </p>
 </div>
 
-## ***GitHub : A centralized Source Code Management Repo***
+#
+
+<div align="left">
+  <h3>GitHub : A centralized Source Code Management Repo</h3>
+</div>
+
 <div
   <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a> 
@@ -121,7 +156,12 @@
 </p>
 </div>
 
-## ***Jenkins : For Continuous Integration and Continuous Deployment***
+#
+
+<div align="left">
+  <h3>Jenkins : For Continuous Integration and Continuous Deployment</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
@@ -129,7 +169,12 @@
 </p>
 </div>
 
-## ***Java : A Powerfull language for web***
+#
+
+<div align="left">
+  <h3>Java : A Powerfull language for Devoping Web Applications</h3>
+</div>
+
 <div
   <p>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -138,12 +183,22 @@
 </p>
 </div>
 
-## ***Spring***
+#
+
+<div align="left">
+  <h3>Spring</h3>
+</div>
+
 <div
   <p>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a comprehensive framework for Java development, offering a wide range of features including dependency injection, aspect-oriented programming, and support for web, data, and enterprise applications, aimed at simplifying the development of robust, scalable software.</span>
 
-## ***Apache Maven : A Build tool for Java based apps***
+#
+
+<div align="left">
+  <h3>Apache Maven : A Build tool for Java based apps</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="40" height="40"/> </a> 
@@ -151,7 +206,12 @@
 </p>
 </div>
 
-## ***SonarQube : For Code Quality Checking***
+#
+
+<div align="left">
+  <h3>SonarQube : For Code Quality Checking</h3>
+</div>
+
 <div
   <p>
 <a href="https://sonarqube.com" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" alt="sonarqube" width="40" height="40"/> </a> 
@@ -160,7 +220,12 @@
 </p>
 </div>
 
-## ***Aqua Trivy : A powerfull Vulnerability Scanner***
+#
+
+<div align="left">
+  <h3>Aqua Trivy : A powerfull Vulnerability Scanner</h3>
+</div>
+
 <div
   <p>
    <a href="https://trivy.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/trivy.svg" alt="aquatrivy" width="50" height="50"/> </a>
@@ -168,7 +233,12 @@
 </p>
 </div>
 
-## ***Nexus Repo : For Storing the build Artifacts***
+#
+
+<div align="left">
+  <h3>Nexus Repo : For Storing the build Artifacts</h3>
+</div>
+
 <div
   <p>
   <a href="https://www.sonatype.com/products/sonatype-nexus-repository" target="_blank" rel="noreferrer"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/sonatype.svg" alt="sonatype" width="50" height="50"/> </a>
@@ -177,7 +247,12 @@
 </div>
 
 
-## ***Docker : An Containerization tool for Packaging application components***
+#
+
+<div align="left">
+  <h3>Docker : An Containerization tool for Packaging application components</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
@@ -185,7 +260,12 @@
 </p>
 </div>
 
-## ***Ansible : For Configuration Management***
+#
+
+<div align="left">
+  <h3>Ansible : For Configuration Management</h3>
+</div>
+
 <div
   <p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> 
@@ -193,14 +273,24 @@
 </p>
 </div>
 
-## ***Argo CD : A tool for Continuous Deployement***
+#
+
+<div align="left">
+  <h3>Argo CD : A tool for Continuous Deployement</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argo" width="90" height="40"/> </a> 
   <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a declarative, GitOps continuous delivery tool for Kubernetes that automates the deployment and synchronization of applications, allowing for version-controlled, auditable, and repeatable deployments directly from Git repositories.</span></p>
 </div>
 
-## ***Kubernetes : K8's Powerfull Container Orchestration tool***
+#
+
+<div align="left">
+  <h3>Kubernetes : K8's Powerfull Container Orchestration tool</h3>
+</div>
+
 <div
   <p>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
@@ -214,14 +304,24 @@ Have a look at the below image deeply indicating how the groups of containers ha
 </div>
 
 
-## ***MySQL : For managing relational Databases***
+#
+
+<div align="left">
+  <h3>MySQL : For managing relational Databases</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source relational database management system (RDBMS) that uses SQL (Structured Query Language) for managing and querying data, known for its reliability, ease of use, and strong support for various applications and platforms.</span>
 </p>
 </div>
 
-## ***Prometheus : IT infrastrucute Systems Monitoring and Generating alerts***
+#
+
+<div align="left">
+  <h3>Prometheus : IT infrastrucute Systems Monitoring and Generating alerts</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.vectorlogo.zone/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" width="90" height="40"/> </a>
@@ -229,14 +329,24 @@ Have a look at the below image deeply indicating how the groups of containers ha
 </p>
 </div>
 
-## ***Grafana : Data Visualization***
+#
+
+<div align="left">
+  <h3>Grafana : Data Visualization</h3>
+</div>
+
 <div
   <p>
 <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source analytics and monitoring platform that integrates with various data sources to visualize and analyze time-series data, providing interactive and customizable dashboards for tracking system performance and metrics.</span>
 </p>
 </div>
 
-## ***Nginx : A powerfull Web server***
+#
+
+<div align="left">
+  <h3>Nginx : A powerfull Web Server</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
@@ -250,28 +360,48 @@ The images are clearly indicating the hight application traffic has been distrib
   <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/LoadBalancer.svg"> 
 </div>
 
-## ***PostMan***
+#
+
+<div align="left">
+  <h3>PostMan</h3>
+</div>
+
 <div
   <p>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a popular API development and testing tool that simplifies the process of designing, testing, and documenting APIs, offering features like request building, automated testing, and collaboration for developers working with RESTful and GraphQL APIs.</span>
 </p>
 </div>
 
-## ***Terraform : An automation tool for Deploying IT Infastructure***
+#
+
+<div align="left">
+  <h3>Terraform : An automation tool for Deploying IT Infastructure</h3>
+</div>
+
 <div
   <p>
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's an open-source infrastructure as code (IaC) tool that allows you to define and provision data center infrastructure using a high-level configuration language. It enables automation, version control, and consistent management of infrastructure across different cloud providers and on-premises environments</span>
 </p>
 </div>
 
-## ***Adobe PhotoShop***
+#
+
+<div align="left">
+  <h3>Adobe PhotoShop</h3>
+</div>
+
 <div
   <p>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <span style="font-size: 16px; font-weight: bold; margin-right: 20px;">Adobe Photoshop is a powerful image editing and graphic design software that provides extensive tools and features for manipulating and enhancing digital images, creating graphics, and performing advanced photo retouching and compositing.</span>
 </p>
 </div>
 
-## ***Zapier***
+#
+
+<div align="left">
+  <h3>Zapier</h3>
+</div>
+
   <div
     <p>
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p><span style="font-size: 16px; font-weight: bold; margin-right: 20px;">It's a web-based automation tool that connects various apps and services to automate repetitive tasks and workflows, enabling users to create custom integrations and automate processes without needing to write code.</span>
