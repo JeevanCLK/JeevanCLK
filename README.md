@@ -341,7 +341,7 @@ An Engineer with 2.7 years of working experience in the information technology i
 **Tools Used**: AWS IAM, EC2 Ubuntu, Git and GitHub, Jenkins, Maven, SonarQube, Nexus, Docker, Docker Hub, Argo CD, AWS EKS
 
 **Application Streamline**:
-- Made changes to the application using Git and committed the changes to the GitHub repository. Configured the repo with a webhook against Jenkins URL to trigger a Jenkins job. Whenever changes were detected in the source code, Jenkins started pulling the code from the GitHub repo to start the pipeline as part of continuous integration and continuous deployment. The Jenkins declarative pipeline was integrated with a series of steps using the respective plugins for the steps to achieve CI/CD.
+- Made some changes to the application using Git and committed the changes to the GitHub repository, the repo was configured with webhook applied against Jenkins URL to trigger a Jenkins job, whenever the changes were detected in the source code, with the help of webhook Jenkins start pulling the code form the GitHub repo to start the pipeline as part of continuous integration and continuous deployment ,the Jenkins declarative pipeline has integrated with series of steps using the respective plugins for the steps to achieve CI and then with the help of Helm Charts stored in GitHub repo, Jenkins used to update the image versions and then app has been deployed to AWS EKS using CD tool Argo CD.
 
 **Series of Steps Involved**:
 
