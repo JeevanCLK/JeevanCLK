@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>----Hey . Thanks for visiting my GitHub profile 🤝 I'm Jeevan H P----</h1>
+  <h1>----Hey . Thanks for visiting my GitHub profile 🤝---- I'm Jeevan H P</h1>
 </div>
 
 <div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Devops%20Banner.svg"> </div>
@@ -408,11 +408,11 @@ The images are clearly indicating the hight application traffic has been distrib
   </p>
   </div>
   
-<div align="center">
-  <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Dev.png" height="200" width="1000"> 
-</div>
-
 ## Please find my Resume below for more details about myself and my background  :
+
+<div align="center">
+  <img width="1000" height="300" src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Cicle%20Devops.svg"> 
+</div>
 
 # Jeevan H P
 
@@ -425,7 +425,7 @@ The images are clearly indicating the hight application traffic has been distrib
 - **DOB**: 07-01-2000  
 - **Address**: Heggere, Sanikere, Chitradurga -577522  
 - **Languages**: English, Kannada, Telugu, Hindi
-
+  
 ## Professional Summary
 
 An Engineer with 2.7 years of working experience in the information technology industry. Possesses a firm understanding and practical expertise with DevOps tools technologies. Critical thinking DevOps Engineer with extensive understanding of high availability architecture and concepts. Purpose-driven professional with capacity to be strong team player plus work effectively.
