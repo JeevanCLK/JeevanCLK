@@ -2,7 +2,7 @@
   <h1>----Hey . Thanks for visiting my GitHub profile 🤝---- I'm Jeevan H P</h1>
 </div>
 
-<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Devops%20Banner.svg"> </div>
+<div align="center"> <img src="https://github.com/JeevanCLK/JeevanCLK/blob/main/Assets/Devops%20Banner1.svg"> </div>
 
 <div align="left">
 <h3 align="center">A passionate DevOps Engineer From Bangalore</h3>
